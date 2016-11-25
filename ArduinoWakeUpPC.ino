@@ -22,6 +22,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
  */
+//Connect pin 7 to a 5V pin on the motherboard.
+//Connect pin 8 to the positive pin of the power switch.
+//Connect a ground pin to the other pin of the power switch.
+
 const int VoltPin = 7; // Connect to a pin that should have 5V when powering the PC
 const int PWPin = 8; // Connect to the power switch (one should be ground, you have to connect to the other one)
 
