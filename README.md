@@ -11,3 +11,6 @@ The Ardunino senses if 5V is present on the pin, if there's no 5V it'll ground t
 #Hardware
 1. Arduino (Nano in my case).
 2. Some jumper wires.
+
+#Shrink it
+I tried it with ATTiny85 and it's work great, same code, different pins.
